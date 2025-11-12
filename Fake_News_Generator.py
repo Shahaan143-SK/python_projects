@@ -186,8 +186,12 @@ while True:
         print("Invalid input. Exiting the generator.")
         break
 print("Thanks for using the Fake News Headline Generator! Have a fun day!")
-"""For Preview Only:
-https://funheadlines.preview.emergentagent.com/"""
+
+
+
+# For Preview Only:
+"""rb.gy/3aswo9"""
+
 
 
 
